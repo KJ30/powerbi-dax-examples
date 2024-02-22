@@ -2,7 +2,7 @@ SelectedFilterText =
 
 
 // Notes :
-// Below dax alows you to display a different text messages based on what filters are applied (measure and filter)
+// Below dax alows you to display different text messages based on what filters are applied (measure and filter)
 // Create a filters table in order to reference inside your report
 // Create a measures table in order to reference inside your report 
 
